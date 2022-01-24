@@ -4,3 +4,6 @@ body {
 
 .menu {float:left;width:15%;background-color:#9ECBDC;height:100%}
 .blank {float:left;width:1%;background-color:#FFFFFF;height:100%}
+
+.header {background-color: #00A29A;}
+.footer {background-color: #00A29A;}
